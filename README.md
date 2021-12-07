@@ -1,16 +1,9 @@
-# imtihon3
+# Rock Paper Scissors Game
+## My First Real Game In Flutter 🥳🔥 !!!
 
-A new Flutter project.
+Flutterdagi boshlangich bilimlari asosida yoshlikni eslatuvchi oyinga qol urdim. 
+Oyinning nomi " Rock Paper Scissors Game ".
 
-## Getting Started
+## Dastur Ishlashi :
+Dastur mening flutterdagi imtihonimga tushgan savol bo'lgan. Dastur 4ta asosiy sahifaga ega bo'lib , unga kora (Kirish qismi, Login qismi , Oyin oynash qismi, va Reyting ) qismlaridan tashkil topgan.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
